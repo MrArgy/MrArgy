@@ -6,4 +6,4 @@ I am just a guy, who loves life :)
 
 Im learn:[![lol](https://skillicons.dev/icons?i=haxe,lua,python&theme=dark)](https://skillicons.dev)
 
-I want to learn:[![lol](https://skillicons.dev/icons?i=javascript,c,java&theme=dark)](https://skillicons.dev)
+I want to learn:[![lol](https://skillicons.dev/icons?i=c,java,javascript&theme=dark)](https://skillicons.dev)
