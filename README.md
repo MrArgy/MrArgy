@@ -1,16 +1,7 @@
-da coder kid with slow pc
+# Hello there
 
-fuckin 🤓 in someone moments
+I am just a guy, who loves life :)
 
-real que pro from ua
+# A little about myself
 
-u, u,
-u u
-
-e, e e,
-
-e e e
-
-e, e e,
-
-e e e
+[![Im study:](https://skillicons.dev/icons?i=haxe,lua,python&theme=dark)](https://skillicons.dev)
