@@ -1,1 +1,1 @@
-![mondays](images/mondays.png)
+<img src="images/mondays.png" width="200">
