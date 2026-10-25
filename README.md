@@ -28,6 +28,7 @@ My real name is Ivan and I enjoy creating some stuff
 ---
 
 Mondays they say?
+
 <img src="images/mondays.png" width="200">
 
 ---
